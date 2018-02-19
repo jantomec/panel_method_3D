@@ -1,5 +1,5 @@
 # panel_method_3D
-This is a 3D air flow analysis program, which uses panel method based on triangular mesh fro calculation.
+This is a 3D air flow analysis program, which uses panel method based on triangular mesh for calculation.
 
 For now there is only a slovenian version of the program.
 
